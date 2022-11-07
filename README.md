@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @birjush
-- 👀 I’m interested in .Web Development
+- 👀 I’m interested in Web Development With C# , JavaScipt
 - 🌱 I’m currently learning Masters in Information Technology 
-- 💞️ I’m looking to collaborate on Learning Web Development
+- 💞️ I Want A SE Designation Job In Any Industry
 - 📫 How to reach me https://www.instagram.com/birju_sain/
 
 <!---
