@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @birjush
-- 👀 I’m interested in Web Development With Asp.Net Core, Java, NodeJS, ExpressJS, PHP
-- Going To Start My First Software Engineer Intern Role @Knovos , From January-24
-- 🌱 I’m currently learning Masters in Information Technology 
-- 📫 How to reach me [https://www.instagram.com/birju_sain](https://www.linkedin.com/in/birju-sharma/)/
+- 👀 I Know Web Development With Asp.Net Core MVC+API, Java(SERVLET,JSP), NodeJS, ExpressJS, PHP
+- Software Engineer Intern @Knovos till 23-April-2024
+- 📫 How to reach me (https://www.linkedin.com/in/birju-sharma/)/[https://www.instagram.com/birju_sain]
 
 <!---
 birjush/birjush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
